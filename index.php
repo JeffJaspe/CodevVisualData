@@ -129,7 +129,7 @@
 				type: 'column',
 				options3d: {
 					enabled: true,
-					alpha: 30,
+					alpha: 50,
 					beta: 25,
 					depth: 70
 				}
@@ -138,7 +138,7 @@
 				text: 'Total Sales per Month of Peanut Kisses in 2020'
 			},
 			subtitle: {
-				text: 'Notice the difference between a 0 value and a null point'
+				text: ''
 			},
 			plotOptions: {
 				column: {
