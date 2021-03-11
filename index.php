@@ -129,7 +129,7 @@
 				type: 'column',
 				options3d: {
 					enabled: true,
-					alpha: 20,
+					alpha: 30,
 					beta: 25,
 					depth: 70
 				}
